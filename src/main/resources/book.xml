@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<book id="1">
+		<name>Java基础</name>
+		<categoryId>1</categoryId>
+		<price>29</price>
+		<picture>/upload/g1.jpg</picture>
+		<remarks>Java基础的备注</remarks>
+	</book>
+</root>
